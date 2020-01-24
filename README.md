@@ -1,4 +1,4 @@
-### Kata TDD de números romanos
+### Ejemplo de programación con objetos.
 
 (Basada en [dziga/nodejs-tdd-katas](https://github.com/dziga/nodejs-tdd-katas))
 
